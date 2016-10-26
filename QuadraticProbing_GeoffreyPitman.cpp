@@ -1,5 +1,5 @@
-// Author: Geoffrey Pitman
-// Course: CSC402 - 010 - Data Structures 2
+// Updated by: Geoffrey Pitman
+// Author: Mark Alan Weiss (Data Structure and Algorithm Analysis 4e)
 // Intructor: Dr. Zhang
 // Due: 10/24/2016
 // Project: 3
