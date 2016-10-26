@@ -1,5 +1,5 @@
 // Updated by: Geoffrey Pitman
-// Author: Mark Alan Weiss (Data Structure and Algorithm Analysis 4e)
+// Author: Mark Allen Weiss (Data Structure and Algorithm Analysis 4e)
 // Intructor: Dr. Zhang
 // Due: 10/24/2016
 // Project: 3
