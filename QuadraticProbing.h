@@ -7,8 +7,8 @@
 // File: QuadraticProbing.h
 // Purpose:  To demonstrate the implementation of a hash-table
 //           data structure using quadratic probing and <.5 load factor
-#ifndef QUADRATICPROBING_GEOFFREYPITMAN_H
-#define QUADRATICPROBING_GEOFFREYPITMAN_H
+#ifndef QUADRATICPROBING_H
+#define QUADRATICPROBING_H
 
 #include <vector>
 #include <string>
