@@ -8,7 +8,7 @@
 // Purpose:  To demonstrate the implementation of a hash-table
 //           data structure using quadratic probing and <.5 load factor
 #include <iostream>
-#include "QuadraticProbing_GeoffreyPitman.h"
+#include "QuadraticProbing.h"
 using namespace std;
 
 /**
