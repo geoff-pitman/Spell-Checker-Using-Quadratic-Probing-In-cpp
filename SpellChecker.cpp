@@ -10,7 +10,7 @@
 //			 3. spell checking user entered word
 //           4. offering suggestions for misspelled words
 #include <iostream>
-#include "QuadraticProbing_GeoffreyPitman.h"
+#include "QuadraticProbingn.h"
 #include <fstream>
 using namespace std;
 
@@ -20,7 +20,7 @@ int main( )
 	double n = 0;
 
 	ifstream inf;
-    vector<string> list;
+    	vector<string> list;
 	string temp;
 	inf.open("words.dat");
 	
