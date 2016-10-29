@@ -1,14 +1,4 @@
-// Updated by: Geoffrey Pitman
-// Course: CSC402 - 010 - Data Structures 2
-// Intructor: Dr. Zhang
-// Due: 10/24/2016
-// Project: 3
-// File: SpellChecker.cpp
-// Purpose:  To demonstrate the use of hash-table data structure by;
-//           1. creating a hashtable from a dictionary of words
-//           2. outputing the table intialization stats
-//			 3. spell checking user entered word
-//           4. offering suggestions for misspelled words
+// Author: Geoffrey Pitman
 #include <iostream>
 #include "QuadraticProbingn.h"
 #include <fstream>
