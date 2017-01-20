@@ -2,7 +2,7 @@
 // Date: 10/2016
 // *Note: Assumes 1 char off cases (missing, extra, wrong)
 #include <iostream>
-#include "QuadraticProbingn.h"
+#include "QuadraticProbing.h"
 #include <fstream>
 using namespace std;
 
