@@ -1,12 +1,3 @@
-// Updated by: Geoffrey Pitman
-// Author: Mark Allen Weiss (Data Structure and Algorithm Analysis 4e)
-// Course: CSC402 - 010 - Data Structures 2
-// Intructor: Dr. Zhang
-// Due: 10/24/2016
-// Project: 3
-// File: QuadraticProbing.cpp
-// Purpose:  To demonstrate the implementation of a hash-table
-//           data structure using quadratic probing and <.5 load factor
 #include <iostream>
 #include "QuadraticProbing.h"
 using namespace std;
