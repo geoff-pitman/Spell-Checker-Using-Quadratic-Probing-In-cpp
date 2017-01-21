@@ -1,5 +1,3 @@
-// Updated by: Geoffrey Pitman
-// Author: Mark Allen Weiss (Data Structure and Algorithm Analysis 4e)
 #ifndef QUADRATICPROBING_H
 #define QUADRATICPROBING_H
 
